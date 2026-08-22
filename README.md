@@ -290,13 +290,6 @@ Telangana State Model School
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-## ⟡ ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RahulGoud09&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
 
 <br/>
 
