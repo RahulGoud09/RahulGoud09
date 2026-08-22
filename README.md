@@ -266,7 +266,7 @@ designed ML pipelines, evaluation workflows, and improved inference speed by
 
 **B.Tech · Computer Science**
 Malla Reddy University
-<sub>2022 – 2026</sub>
+<sub>2022 – 2026 · 77%</sub>
 
 </td>
 <td width="33%" align="center" valign="top">
