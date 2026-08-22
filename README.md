@@ -1,244 +1,311 @@
 <div align="center">
 
-<!-- ===================== HERO BANNER ===================== -->
+# RAHUL GOUD
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Rahul%20Goud&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20India&descAlignY=58&descSize=20" />
+### AI/ML Engineer · Software Developer
 
-<br/>
+**Building intelligent systems that solve real-world problems.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-RahulGoud09-181717?style=for-the-badge\&logo=github)](https://github.com/RahulGoud09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Goud-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/rahulgoud09/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rampallyrahulgoud@gmail.com)
+
+</div>
+
+---
+
+## ABOUT ME
+
+I'm **Rahul Goud**, an **AI/ML Engineer and Software Developer** based in Hyderabad, India.
+
+I enjoy turning ideas into intelligent, practical systems — from **NLP and Transformer-based applications** to **computer vision and optimized ML pipelines**.
+
+* 🎓 B.Tech in Computer Science — Malla Reddy University
+* 🤖 Focused on Artificial Intelligence & Machine Learning
+* 🧠 Interested in NLP, Deep Learning, Transformers & Computer Vision
+* ⚡ Experienced in building and optimizing ML pipelines
+* 👨‍💻 Technical Project Lead for **SignBridge Pro**
+* 🚀 Currently expanding my knowledge in AI engineering, system design and cloud technologies
+
+> **Build. Learn. Optimize. Repeat.**
+
+---
+
+## TECH STACK
+
+### Programming
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java" />
+</p>
+
+### AI / Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+**Machine Learning:** Supervised Learning · Unsupervised Learning · Model Evaluation
+
+**Deep Learning:** CNN · RNN · LSTM · Transformers
+
+**NLP:** Sentiment Analysis · Text Classification · Text Processing
+
+### Development & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,git,github,docker,linux,vscode,postman" />
+</p>
+
+### Data & Analytics
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+**Tools:** Tableau · Excel · Data Analysis · Data Visualization
+
+---
+
+## FEATURED PROJECTS
+
+<div align="center">
+
+### 01 · SignBridge Pro
+
+**Offline AI-powered sign-language translation system**
+
+Led a team of 4 to develop an offline sign-language translation system focused on converting gestures into meaningful communication.
+
+**Highlights**
+
+* Designed ML pipelines and evaluation workflows
+* Optimized inference using ONNX
+* Achieved **35% faster inference**
+* Designed with offline usability in mind
+
+**Tech:** `Python` `Machine Learning` `Computer Vision` `OpenCV` `MediaPipe` `ONNX`
+
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge\&logo=github)](https://github.com/RahulGoud09)
+
+</div>
+
+---
+
+<div align="center">
+
+### 02 · AI Code Completion System
+
+**Transformer-based intelligent code completion**
+
+Developed an AI code completion system using Transformer-based next-token prediction.
+
+**Highlights**
+
+* Implemented custom tokenization
+* Built custom embeddings
+* Developed next-token prediction pipeline
+* Focused on intelligent developer assistance
+
+**Tech:** `Python` `Transformers` `NLP` `Deep Learning`
+
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge\&logo=github)](https://github.com/RahulGoud09)
+
+</div>
+
+---
+
+<div align="center">
+
+### 03 · Airline Sentiment Analysis
+
+**NLP-powered sentiment classification system**
+
+Built a sentiment-analysis application capable of classifying airline-related text using traditional machine learning and Transformer approaches.
+
+**Highlights**
+
+* Implemented Logistic Regression
+* Applied TF-IDF feature extraction
+* Integrated Transformer-based classification
+* Built and deployed a Flask dashboard
+
+**Tech:** `Python` `NLP` `TF-IDF` `Logistic Regression` `Transformers` `Flask`
+
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge\&logo=github)](https://github.com/RahulGoud09)
+
+</div>
+
+---
+
+## MORE PROJECTS
+
+| Project                                    | Description                                               | Technologies                |
+| ------------------------------------------ | --------------------------------------------------------- | --------------------------- |
+| **Opinion Mining & Fake Review Detection** | NLP pipeline for opinion mining and fake-review detection | Python · NLP                |
+| **Airline Sentiment Analysis**             | Sentiment classification and Flask deployment             | Python · NLP · Flask        |
+| **AI Code Completion**                     | Transformer-based next-token prediction                   | Python · Transformers       |
+| **SignBridge Pro**                         | Offline sign-language translation                         | ML · Computer Vision · ONNX |
+
+---
+
+## GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulGoud09&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulGoud09&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RahulGoud09&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RahulGoud09/RahulGoud09/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+> Enable the GitHub Actions workflow in this profile repository to generate the contribution snake automatically.
+
+---
+
+## CURRENTLY LEARNING
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge\&logo=openai\&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-111827?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge\&logo=amazonwebservices\&logoColor=FF9900)
+![DevOps](https://img.shields.io/badge/DevOps-111827?style=for-the-badge\&logo=devdotto\&logoColor=white)
+
+</div>
+
+I'm currently strengthening my knowledge in:
+
+* Artificial Intelligence & advanced ML engineering
+* System Design
+* Docker & containerized applications
+* AWS & cloud infrastructure
+* DevOps & deployment workflows
+* Scalable AI systems
+
+---
+
+## EXPERIENCE & LEADERSHIP
+
+### Technical Project Lead — SignBridge Pro
+
+**Team of 4 · AI/ML Project**
+
+* Led development of an offline sign-language translation system
+* Designed machine-learning pipelines and evaluation workflows
+* Improved inference speed by **35% through ONNX optimization**
+* Coordinated technical implementation across the project
+
+---
+
+## VIRTUAL EXPERIENCE
+
+### Deloitte Australia — Data Analytics Job Simulation
+
+**Forage · April 2026**
+
+* Completed a data-analysis and forensic-technology simulation
+* Built an interactive Tableau dashboard for business insights
+* Used Excel to classify data and derive business conclusions
+
+---
+
+## CERTIFICATIONS
+
+<div align="center">
+
+![Coursera](https://img.shields.io/badge/Coursera-AI%20Workflow-0056D2?style=for-the-badge\&logo=coursera)
+![Coursera](https://img.shields.io/badge/Coursera-AI%20for%20Everyone-0056D2?style=for-the-badge\&logo=coursera)
+![Coursera](https://img.shields.io/badge/Coursera-Programming%20Fundamentals-0056D2?style=for-the-badge\&logo=coursera)
+
+</div>
+
+* **AI Workflow — Business Priorities and Data**
+* **AI for Everyone**
+* **Programming Fundamentals**
+
+---
+
+## EDUCATION
+
+### B.Tech — Computer Science
+
+**Malla Reddy University, Hyderabad**
+2022 – 2026
+
+### Intermediate
+
+**Narayana Junior College**
+2020 – 2022 · **84%**
+
+### SSC
+
+**Telangana State Model School**
+2019 – 2020 · **100%**
+
+---
+
+## ACHIEVEMENTS
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RahulGoud09\&theme=darkhub\&no-frame=true\&no-bg=true\&margin-w=8\&row=1)](https://github.com/RahulGoud09)
+
+</div>
+
+---
+
+## LET'S CONNECT
+
+<div align="center">
+
+<a href="https://github.com/RahulGoud09">
+<img src="https://img.shields.io/badge/GitHub-RahulGoud09-181717?style=for-the-badge&logo=github" />
+</a>
 
 <a href="https://www.linkedin.com/in/rahulgoud09/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/RahulGoud09">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Rahul%20Goud-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;MERN+Stack+%7C+TypeScript+%7C+Next.js;Turning+ideas+into+clean%2C+working+code;Always+learning%2C+always+shipping." alt="Typing SVG" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=RahulGoud09&color=6366f1&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/RahulGoud09?style=flat-square&color=6366f1&label=Followers)
-
-</div>
-
-<br/>
-
-<!-- ===================== ABOUT ME ===================== -->
-
-## 🧩 About Me
-
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
-
-- 🚀 Full Stack Web Developer specializing in the **MERN stack** and **TypeScript**
-- 🏗️ I enjoy architecting clean, scalable, and maintainable web applications
-- 🌱 Currently deepening my knowledge of **System Design, Docker, AWS & DevOps**
-- 💡 Passionate about writing efficient code and crafting intuitive user experiences
-- 🎯 Goal-driven — focused on building products that solve real-world problems
-- 📍 Based in **India** | Open to full-time & freelance opportunities
-- ⚡ Fun fact: I debug faster with good coffee ☕
-
-<br clear="right"/>
-
-<br/>
-
-<!-- ===================== TECH STACK ===================== -->
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages & Markup**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind&theme=dark" />
-
-<br/><br/>
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-
-<br/><br/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&theme=dark" />
-
-</div>
-
-<br/>
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RahulGoud09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulGoud09&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
-
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulGoud09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" />
-
-</div>
-
-<br/>
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulGoud09&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff" width="100%" />
-
-<!-- Contribution Snake -->
-<img src="https://raw.githubusercontent.com/RahulGoud09/RahulGoud09/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
-
-<sub>⚙️ Snake animation auto-generates via GitHub Actions — see setup note at the bottom.</sub>
-
-</div>
-
-<br/>
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 🛒 E-Commerce Platform
-
-Full-featured online store with cart, checkout, auth, and an admin dashboard for inventory & order management.
-
-**Tech Stack:**
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind&theme=dark" height="28"/>
-
-<p>
-<a href="https://github.com/RahulGoud09"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-### 📋 Project Management Tool
-
-A Trello-style Kanban app with drag-and-drop boards, real-time updates, and team collaboration features.
-
-**Tech Stack:**
-<img src="https://skillicons.dev/icons?i=nextjs,ts,express,mysql&theme=dark" height="28"/>
-
-<p>
-<a href="https://github.com/RahulGoud09"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-### 💬 Real-Time Chat App
-
-Real-time messaging app with rooms, typing indicators, and JWT authentication, built on WebSockets.
-
-**Tech Stack:**
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" height="28"/>
-
-<p>
-<a href="https://github.com/RahulGoud09"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white"/></a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<sub>🔍 More projects on my <a href="https://github.com/RahulGoud09?tab=repositories">GitHub repositories</a></sub>
-</div>
-
-<br/>
-
-<!-- ===================== CURRENTLY LEARNING ===================== -->
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0f172a?style=for-the-badge&logo=openai&logoColor=6366f1"/>
-<img src="https://img.shields.io/badge/System%20Design-0f172a?style=for-the-badge&logo=googlecloud&logoColor=6366f1"/>
-<img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=6366f1"/>
-<img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=6366f1"/>
-<img src="https://img.shields.io/badge/DevOps-0f172a?style=for-the-badge&logo=githubactions&logoColor=6366f1"/>
-
-</div>
-
-<br/>
-
-<!-- ===================== ACHIEVEMENTS ===================== -->
-
-## 🏆 Achievement Badges
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RahulGoud09&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
-
-</div>
-
-<br/>
-
-<!-- ===================== CONTACT ===================== -->
-
-## 📬 Let's Connect
-
-<div align="center">
-
-I'm always open to discussing new projects, opportunities, or collaborations.
-Feel free to reach out — I usually respond within a day.
-
-<a href="https://www.linkedin.com/in/rahulgoud09/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/View%20Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/RahulGoud09">
-  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:rampallyrahulgoud@gmail.com">
+<img src="https://img.shields.io/badge/Email-rampallyrahulgoud%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-<br/>
-
-<!-- ===================== FOOTER ===================== -->
+<br>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer" />
+### Building intelligent systems. One project at a time.
 
-<sub>⭐ If you like what you see, consider starring some of my repositories!</sub>
+**Rahul Goud · Hyderabad, India**
 
-<br/>
-<sub>© 2026 Rahul Goud — Built with care, one commit at a time.</sub>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=RahulGoud09&style=flat-square&color=blue" alt="Profile Views" />
 
 </div>
